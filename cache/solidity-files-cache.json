@@ -1,0 +1,39 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/home/dwightd/code/nft-test/contracts/HelloBlockchain.sol": {
+      "lastModificationDate": 1630759928294,
+      "contentHash": "57196476e69ad67e2bb5cabefb830d40",
+      "sourceName": "contracts/HelloBlockchain.sol",
+      "solcConfig": {
+        "version": "0.7.3",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.7.3"
+      ],
+      "artifacts": [
+        "HelloBlockchain"
+      ]
+    }
+  }
+}
